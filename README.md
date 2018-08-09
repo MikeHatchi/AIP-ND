@@ -13,4 +13,4 @@ Image Classifier Python app. application should be a pair of Python scripts that
 > Predict flower name from an image with predict.py along with the probability of that name.
           A single image will be passed /path/to/image and return the flower name and class probability.
 
-# Some functions necessary for the proper functioning of the app. have not been included in the repository.
+Some functions necessary for the proper functioning of the app. have not been included in the repository.
